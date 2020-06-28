@@ -1,4 +1,7 @@
-<include a CircleCI status badge, here>
+# Udacity DevOps Project 4
+Operationalise a Machine Learning Microservice API.
+
+[![CircleCI](https://circleci.com/gh/fciccarese/udacity-devops-project-four.svg?style=svg)](https://circleci.com/gh/fciccarese/udacity-devops-project-four)
 
 ## Project Overview
 
