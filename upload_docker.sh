@@ -9,6 +9,7 @@ dockerpath="fciccarese/udacity-project-four:latest"
 
 # Step 2:  
 # Authenticate & tag
+docker login --username=fciccarese
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
